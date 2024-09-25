@@ -1,6 +1,6 @@
 # usePopcorn-App
-Mastering React with usePopcorn: a rating movie App using OMDb API
-Mastering React.js using:
+Mastering React with usePopcorn: a rating movie App using OMDb API <br/>
+Mastering React.js using: </br>
 -More "thinking in React" using Components, Composition and Reusability strategies; <br/>
 -Effects (useEffect Hooks) and Data Fetching; </br>
 -Custom Hooks (useMovie, useKey, useLocalStorage); </br>
