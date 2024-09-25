@@ -8,6 +8,6 @@ Mastering React.js using: </br>
 -Handling errors and more.  </br>
 
 Take a look at usePopcorn here:
-(https://github.com/adrianapopd/usePopcorn-App/blob/main/usepopcorn1.png)
+![s1](https://github.com/adrianapopd/usePopcorn-App/blob/main/usepopcorn1.png)
 (https://github.com/adrianapopd/usePopcorn-App/blob/main/usepopcorn2.png)
 (https://github.com/adrianapopd/usePopcorn-App/blob/main/usepopcorn3.png)
