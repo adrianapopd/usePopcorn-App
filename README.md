@@ -1,2 +1,2 @@
 # usePopcorn-App
-A rating movies App using OMDb API
+A rating movies React App using OMDb API
