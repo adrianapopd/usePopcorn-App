@@ -9,5 +9,5 @@ Mastering React.js using: </br>
 
 Take a look at usePopcorn here:
 ![s1](https://github.com/adrianapopd/usePopcorn-App/blob/main/usepopcorn1.png)
-(https://github.com/adrianapopd/usePopcorn-App/blob/main/usepopcorn2.png)
-(https://github.com/adrianapopd/usePopcorn-App/blob/main/usepopcorn3.png)
+![s2](https://github.com/adrianapopd/usePopcorn-App/blob/main/usepopcorn2.png)
+![s13](https://github.com/adrianapopd/usePopcorn-App/blob/main/usepopcorn3.png)
